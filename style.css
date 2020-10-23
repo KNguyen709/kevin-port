@@ -85,4 +85,14 @@ hr{
 	border: 1px solid #656f99;
 	margin: 50px 100px;
 }
+
+div:visited {
+  color: #00FF00;
+}
+
+div:hover {
+  color: #FF00FF;
+}
+
+
 		 

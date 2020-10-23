@@ -1,37 +1,76 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewpoint" content ="width=device-width">
+		<title>About Me</title>
+		<link href="style.css" rel ="stylesheet"
+		type="text/css" />
+	</head>
+	<body>
+		<header>
+			<div>
+				<h1>Kevin Nguyen</h1>
+				<h2>Software Engineer</h2>
+			</div>
+		</header>
 
-You can use the [editor on GitHub](https://github.com/KNguyen709/kevin-port/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KNguyen709/kevin-port/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<main>
+  <div>
+    <article>
+      <section>
+        <header>
+			<img src="images/kevinPicture.jpg"/>
+          <h2>Hello! I am Kevin Nguyen</h2>
+        </header>
+        <p>I am a software developer from Springfield, Virginia.</p>
+        <p> As a advid game lover, I am interested in:</p>
+		<div>
+		<ul>
+		<li>Vivid and aesthetic art and designs</li>
+		<li>Interactive and fast-paced environments</li>
+		<li>Challenging and thought-provoking situations</li>
+		</ul>
+		</div>
+      </section>
+	  <hr></hr>
+      <section>
+        <header>
+          <h2>About Kevin</h2>
+        </header>
+        <p>After college I began working as a salesman for some
+		fortune 500 companies. I was able to develop my public
+		speaking skills through them and as a result I gain some
+		self confidence in myself and I began to think bigger.</p>
+		<p>As a student at Thinkful, my goal is to be able to have
+		the skills I need in order to become a sucessful partner or
+		run a small business using my skills I learned from doing
+		sales. Using the new skills I learn from Thinkful will be
+		me being much closer to my goal of being independent.</p>
+		<p>If you are looking for a contractor, a new developer
+		to hire, or a partner then please feel free to reach out!
+		I am always excited to meet new people and work with other
+		developers or new partners.</p>
+      </section>
+	  <hr></hr>
+	  <section>
+		<header>
+			<h2> Contact Kevin</h2>
+			<p>I would love to hear from you! Please feel free to contact or follow me:</p>
+			<ol>
+			<li><a href="https://www.linkedin.com/in/kevin-n-804b57b4/">Visit my
+			LinkedIn!</a></li>
+			<li><a href="https://github.com/KNguyen709">Visit my Github!</a></li>
+			</ol>
+		</header>
+	  </section>
+    </article>
+  </div>
+</main>
+<header>
+			<div>
+			<h3><br></h3>
+			</div>
+		</header>
+	</body>
+</html>
